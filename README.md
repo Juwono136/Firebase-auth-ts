@@ -2,7 +2,7 @@
 #### Overview:
 ![firebase login auth](https://user-images.githubusercontent.com/70443393/176997208-ea94446b-f1e0-4beb-9028-0fae616ebfb3.jpg)
 
-### Tech that I used:
+### Tech that I've used:
 - React TS
 - React Redux
 - Redux Toolkit
